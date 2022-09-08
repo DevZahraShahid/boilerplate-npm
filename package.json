@@ -2,6 +2,7 @@
 	"author": "Zahra Shahid",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"keywords": ["freecodecamo", "microservices","node-project"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
